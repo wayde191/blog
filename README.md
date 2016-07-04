@@ -1,0 +1,2 @@
+# blog
+wayde's blog
