@@ -1,0 +1,11 @@
+bg: #6e9e13
+
+1: weather : #1a9ede
+2: computer: #69b41c
+3: detail: #8590ac
+4: email: #d24c33
+5: control: #69185b
+6: voice: #edd324
+7: friends: #0265c8 - #093062
+
+8：＃146096： 深色  002a5b    浅色 2c73a5

@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape by Victor Gasia -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="300"
+   height="635"
+   viewBox="-5.846 -4.865 300 635"
+   id="svg"
+   xml:space="preserve">
+  <title    id="titre">Software development</title>
+  <desc     id="description">Crée par Victor GASIA 2012 à partir d'un travail original de Wikimedia</desc>
+  <metadata id="metadata"></metadata>
+  <defs     id="defs">
+   <linearGradient
+     x1="57.320999"
+     y1="64.660004"
+     x2="236.321"
+     y2="64.660004"
+     id="linearGradient4600"
+     xlink:href="#SVGID_1_"
+     gradientUnits="userSpaceOnUse" /><linearGradient
+     x1="18.820999"
+     y1="542.19202"
+     x2="274.82101"
+     y2="542.19202"
+     id="linearGradient4608"
+     xlink:href="#SVGID_1_"
+     gradientUnits="userSpaceOnUse" /><linearGradient
+     x1="57.820999"
+     y1="451.1955"
+     x2="235.821"
+     y2="451.1955"
+     id="linearGradient4610"
+     xlink:href="#SVGID_1_"
+     gradientUnits="userSpaceOnUse" /><linearGradient
+     x1="57.820999"
+     y1="361.686"
+     x2="235.821"
+     y2="361.686"
+     id="linearGradient4612"
+     xlink:href="#SVGID_1_"
+     gradientUnits="userSpaceOnUse" /><linearGradient
+     x1="57.820999"
+     y1="251.64"
+     x2="235.821"
+     y2="251.64"
+     id="linearGradient4614"
+     xlink:href="#SVGID_1_"
+     gradientUnits="userSpaceOnUse" /><linearGradient
+     x1="57.820999"
+     y1="172.71899"
+     x2="235.821"
+     y2="172.71899"
+     id="linearGradient4616"
+     xlink:href="#SVGID_1_"
+     gradientUnits="userSpaceOnUse" /><linearGradient
+     x1="57.820999"
+     y1="129.22501"
+     x2="235.821"
+     y2="129.22501"
+     id="linearGradient4618"
+     xlink:href="#SVGID_1_"
+     gradientUnits="userSpaceOnUse" /></defs>
+<rect
+   width="289"
+   height="302"
+   x="0.139"
+   y="0.13500001"
+   id="rect13"
+   style="fill:#fafcdb;fill-opacity:1;stroke:#b3b3b3;stroke-opacity:1" />
+<rect
+   width="289"
+   height="318"
+   x="0.139"
+   y="306.13501"
+   id="rect15"
+   style="fill:#dcf8f9;fill-opacity:1;stroke:#b3b3b3;stroke-opacity:1" />
+
+<linearGradient
+   x1="57.821301"
+   y1="251.6396"
+   x2="235.8213"
+   y2="251.6396"
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse">
+	<stop
+   id="stop30"
+   style="stop-color:#ffffff;stop-opacity:1"
+   offset="0.1319" />
+	<stop
+   id="stop32"
+   style="stop-color:#f4f4f4;stop-opacity:1"
+   offset="0.3856" />
+	<stop
+   id="stop34"
+   style="stop-color:#d7d7d7;stop-opacity:1"
+   offset="0.82959998" />
+	<stop
+   id="stop36"
+   style="stop-color:#cdcdcd;stop-opacity:1"
+   offset="0.96149999" />
+</linearGradient>
+<path
+   d="m 235.821,296.14 c 0,1.657 -1.343,3 -3,3 h -172 c -1.657,0 -3,-1.343 -3,-3 v -89 c 0,-1.657 1.343,-3 3,-3 h 172 c 1.657,0 3,1.343 3,3 v 89 z"
+   id="path38"
+   style="fill:url(#linearGradient4614);fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+<linearGradient
+   x1="18.8218"
+   y1="542.19238"
+   x2="274.82129"
+   y2="542.19238"
+   id="SVGID_2_"
+   gradientUnits="userSpaceOnUse">
+	<stop
+   id="stop41"
+   style="stop-color:#ffffff;stop-opacity:1"
+   offset="0.1319" />
+	<stop
+   id="stop43"
+   style="stop-color:#f4f4f4;stop-opacity:1"
+   offset="0.3856" />
+	<stop
+   id="stop45"
+   style="stop-color:#d7d7d7;stop-opacity:1"
+   offset="0.82959998" />
+	<stop
+   id="stop47"
+   style="stop-color:#cdcdcd;stop-opacity:1"
+   offset="0.96149999" />
+</linearGradient>
+<path
+   d="m 274.821,588.192 c 0,1.657 -1.343,3 -3,3 h -250 c -1.657,0 -3,-1.343 -3,-3 v -92 c 0,-1.657 1.343,-3 3,-3 h 250 c 1.657,0 3,1.343 3,3 v 92 z"
+   id="path49"
+   style="fill:url(#linearGradient4608);fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+<linearGradient
+   x1="80.9272"
+   y1="64.660202"
+   x2="215.2813"
+   y2="64.660202"
+   id="SVGID_3_"
+   gradientUnits="userSpaceOnUse">
+	<stop
+   id="stop52"
+   style="stop-color:#ffffff;stop-opacity:1"
+   offset="0.1319" />
+	<stop
+   id="stop54"
+   style="stop-color:#f4f4f4;stop-opacity:1"
+   offset="0.3856" />
+	<stop
+   id="stop56"
+   style="stop-color:#d7d7d7;stop-opacity:1"
+   offset="0.82959998" />
+	<stop
+   id="stop58"
+   style="stop-color:#cdcdcd;stop-opacity:1"
+   offset="0.96149999" />
+</linearGradient>
+<path
+   d="m 235.821,95.9 c 0,2.353 -1.343,4.26 -3,4.26 h -172 c -1.657,0 -3,-1.907 -3,-4.26 V 33.42 c 0,-2.353 1.343,-4.26 3,-4.26 h 172 c 1.657,0 3,1.907 3,4.26 V 95.9 z"
+   id="path60"
+   style="fill:url(#linearGradient4600);fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+<linearGradient
+   x1="57.8218"
+   y1="129.2251"
+   x2="235.8213"
+   y2="129.2251"
+   id="SVGID_4_"
+   gradientUnits="userSpaceOnUse">
+	<stop
+   id="stop63"
+   style="stop-color:#ffffff;stop-opacity:1"
+   offset="0.1319" />
+	<stop
+   id="stop65"
+   style="stop-color:#f4f4f4;stop-opacity:1"
+   offset="0.3856" />
+	<stop
+   id="stop67"
+   style="stop-color:#d7d7d7;stop-opacity:1"
+   offset="0.82959998" />
+	<stop
+   id="stop69"
+   style="stop-color:#cdcdcd;stop-opacity:1"
+   offset="0.96149999" />
+</linearGradient>
+<path
+   d="m 235.821,141.225 c 0,1.657 -1.343,3 -3,3 h -172 c -1.657,0 -3,-1.343 -3,-3 v -24 c 0,-1.657 1.343,-3 3,-3 h 172 c 1.657,0 3,1.343 3,3 v 24 z"
+   id="path71"
+   style="fill:url(#linearGradient4618);fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+<linearGradient
+   x1="57.8218"
+   y1="361.68649"
+   x2="235.8213"
+   y2="361.68649"
+   id="SVGID_5_"
+   gradientUnits="userSpaceOnUse">
+	<stop
+   id="stop74"
+   style="stop-color:#ffffff;stop-opacity:1"
+   offset="0.1319" />
+	<stop
+   id="stop76"
+   style="stop-color:#f4f4f4;stop-opacity:1"
+   offset="0.3856" />
+	<stop
+   id="stop78"
+   style="stop-color:#d7d7d7;stop-opacity:1"
+   offset="0.82959998" />
+	<stop
+   id="stop80"
+   style="stop-color:#cdcdcd;stop-opacity:1"
+   offset="0.96149999" />
+</linearGradient>
+<path
+   d="m 235.821,396.487 c 0,4.802 -1.343,8.699 -3,8.699 h -172 c -1.657,0 -3,-3.897 -3,-8.699 v -69.601 c 0,-4.805 1.343,-8.7 3,-8.7 h 172 c 1.657,0 3,3.896 3,8.7 v 69.601 z"
+   id="path82"
+   style="fill:url(#linearGradient4612);fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+<linearGradient
+   x1="57.8218"
+   y1="451.19531"
+   x2="235.8213"
+   y2="451.19531"
+   id="SVGID_6_"
+   gradientUnits="userSpaceOnUse">
+	<stop
+   id="stop85"
+   style="stop-color:#ffffff;stop-opacity:1"
+   offset="0.1319" />
+	<stop
+   id="stop87"
+   style="stop-color:#f4f4f4;stop-opacity:1"
+   offset="0.3856" />
+	<stop
+   id="stop89"
+   style="stop-color:#d7d7d7;stop-opacity:1"
+   offset="0.82959998" />
+	<stop
+   id="stop91"
+   style="stop-color:#cdcdcd;stop-opacity:1"
+   offset="0.96149999" />
+</linearGradient>
+<path
+   d="m 235.821,472.795 c 0,2.981 -1.343,5.4 -3,5.4 h -172 c -1.657,0 -3,-2.419 -3,-5.4 v -43.199 c 0,-2.981 1.343,-5.4 3,-5.4 h 172 c 1.657,0 3,2.419 3,5.4 v 43.199 z"
+   id="path93"
+   style="fill:url(#linearGradient4610);fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+<linearGradient
+   x1="57.8218"
+   y1="172.71919"
+   x2="235.8213"
+   y2="172.71919"
+   id="SVGID_7_"
+   gradientUnits="userSpaceOnUse">
+	<stop
+   id="stop96"
+   style="stop-color:#ffffff;stop-opacity:1"
+   offset="0.1319" />
+	<stop
+   id="stop98"
+   style="stop-color:#f4f4f4;stop-opacity:1"
+   offset="0.3856" />
+	<stop
+   id="stop100"
+   style="stop-color:#d7d7d7;stop-opacity:1"
+   offset="0.82959998" />
+	<stop
+   id="stop102"
+   style="stop-color:#cdcdcd;stop-opacity:1"
+   offset="0.96149999" />
+</linearGradient>
+<path
+   d="m 235.821,184.719 c 0,1.657 -1.343,3 -3,3 h -172 c -1.657,0 -3,-1.343 -3,-3 v -24 c 0,-1.657 1.343,-3 3,-3 h 172 c 1.657,0 3,1.343 3,3 v 24 z"
+   id="path104"
+   style="fill:url(#linearGradient4616);fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+<text
+   x="78.974709"
+   y="2.6244638"
+   transform="translate(-5.846,-4.865)"
+   id="text3523"
+   xml:space="preserve"
+   style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+     x="78.974709"
+     y="2.6244638"
+     id="tspan3525" /></text>
+<text
+   x="25.618626"
+   y="66.574715"
+   transform="translate(-5.846,-4.865)"
+   id="text3531"
+   xml:space="preserve"
+   style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+     x="25.618626"
+     y="66.574715"
+     id="tspan3533" /></text>
+<text
+   x="147.06526"
+   y="18.206266"
+   id="text3581"
+   xml:space="preserve"
+   style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+     x="147.06526"
+     y="18.206266"
+     id="tspan3583"
+     style="font-size:11.5px;fill:#808080;fill-opacity:1">Testing and development period</tspan></text>
+<text
+   x="146.59004"
+   y="63.588577"
+   id="text3585"
+   xml:space="preserve"
+   style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+     x="146.59004"
+     y="63.588577"
+     id="tspan3587"
+     style="font-size:11px">aka</tspan></text>
+<text
+   x="146.78877"
+   y="77.905991"
+   id="text3589"
+   xml:space="preserve"
+   style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+     x="146.78877"
+     y="77.905991"
+     id="tspan3591">development releases</tspan></text>
+<text
+   x="146.6545"
+   y="92.588287"
+   id="text3593"
+   xml:space="preserve"
+   style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+     x="146.6545"
+     y="92.588287"
+     id="tspan3595">nightly builds</tspan></text>
+<text
+   x="146.59004"
+   y="251.59457"
+   id="text3597"
+   xml:space="preserve"
+   style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+     x="146.59004"
+     y="251.59457"
+     id="tspan3599">aka</tspan></text>
+<text
+   x="146.59273"
+   y="265.95193"
+   id="text3601"
+   xml:space="preserve"
+   style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+     x="146.59273"
+     y="265.95193"
+     id="tspan3603">gamma</tspan></text>
+<text
+   x="146.59273"
+   y="280.39459"
+   id="text3605"
+   xml:space="preserve"
+   style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+     x="146.59273"
+     y="280.39459"
+     id="tspan3607">delta</tspan></text>
+<text
+   x="146.72701"
+   y="360.52899"
+   id="text3609"
+   xml:space="preserve"
+   style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+     x="146.72701"
+     y="360.52899"
+     id="tspan3611">Release to Manufacturing</tspan></text>
+<text
+   x="146.59004"
+   y="375.01157"
+   id="text3613"
+   xml:space="preserve"
+   style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+     x="146.59004"
+     y="375.01157"
+     id="tspan3615">aka</tspan></text>
+<text
+   x="146.72701"
+   y="387.97299"
+   id="text3617"
+   xml:space="preserve"
+   style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+     x="146.72701"
+     y="387.97299"
+     id="tspan3619">Release to Marketing</tspan></text>
+<text
+   x="146.55513"
+   y="463.53799"
+   id="text3621"
+   xml:space="preserve"
+   style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+     x="146.55513"
+     y="463.53799"
+     id="tspan3623">General Availability</tspan></text>
+<text
+   x="146.59004"
+   y="550.62463"
+   id="text3625"
+   xml:space="preserve"
+   style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+     x="146.59004"
+     y="550.62463"
+     id="tspan3627">aka</tspan></text>
+<text
+   x="146.72273"
+   y="613.55713"
+   id="text3629"
+   xml:space="preserve"
+   style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+     x="146.72273"
+     y="613.55713"
+     id="tspan3631"
+     style="font-size:11.5px;fill:#808080;fill-opacity:1">Release period</tspan></text>
+<text
+   x="146.12984"
+   y="49.204853"
+   id="text3633"
+   xml:space="preserve"
+   style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+     x="146.12984"
+     y="49.204853"
+     id="tspan3635"
+     style="font-size:19px;font-weight:bold;-inkscape-font-specification:Liberation Sans Bold">Pre-alpha</tspan></text>
+<text
+   x="146.52876"
+   y="135.11513"
+   id="text3637"
+   xml:space="preserve"
+   style="font-size:19px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+     x="146.52876"
+     y="135.11513"
+     id="tspan3639"
+     style="font-weight:bold;-inkscape-font-specification:Liberation Sans Bold">Alpha</tspan></text>
+<text
+   x="146.12984"
+   y="178.54745"
+   id="text3641"
+   xml:space="preserve"
+   style="font-size:19px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Liberation Sans;-inkscape-font-specification:Sans Bold"><tspan
+     x="146.12984"
+     y="178.54745"
+     id="tspan3643">Beta</tspan></text>
+<text
+   x="146.51485"
+   y="237.20445"
+   id="text3645"
+   xml:space="preserve"
+   style="font-size:19px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Liberation Sans;-inkscape-font-specification:Sans Bold"><tspan
+     x="146.51485"
+     y="237.20445"
+     id="tspan3647">Release Candidate</tspan></text>
+<text
+   x="146.83028"
+   y="345.93188"
+   id="text3649"
+   xml:space="preserve"
+   style="font-size:19px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Liberation Sans;-inkscape-font-specification:Sans Bold"><tspan
+     x="146.83028"
+     y="345.93188"
+     id="tspan3651">RTM</tspan></text>
+<text
+   x="146.68648"
+   y="448.99454"
+   id="text3653"
+   xml:space="preserve"
+   style="font-size:19px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Liberation Sans;-inkscape-font-specification:Sans Bold"><tspan
+     x="146.68648"
+     y="448.99454"
+     id="tspan3655">GA</tspan></text>
+<text
+   x="146.51485"
+   y="534.995"
+   id="text3657"
+   xml:space="preserve"
+   style="font-size:19px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Liberation Sans;-inkscape-font-specification:Sans Bold"><tspan
+     x="146.51485"
+     y="534.995"
+     id="tspan3659">Production or live release</tspan></text>
+<text
+   x="147.06221"
+   y="573.64551"
+   id="text3661"
+   xml:space="preserve"
+   style="font-size:19px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Liberation Sans;-inkscape-font-specification:Sans Bold"><tspan
+     x="147.06221"
+     y="573.64551"
+     id="tspan3663">Gold</tspan></text>
+<path
+   d="m 143.42609,100.285 0,6.40816 -3.41499,0 6.8099,11.79177 6.8099,-11.79177 -3.39491,0 0,-6.40816 z"
+   id="path4620"
+   style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.60000038;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" /><path
+   d="m 143.42609,144.35 0,6.40816 -3.41499,0 6.8099,11.79177 6.8099,-11.79177 -3.39491,0 0,-6.40816 z"
+   id="path4620-1"
+   style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.60000038;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" /><path
+   d="m 143.42609,187.844 0,6.40816 -3.41499,0 6.8099,11.79177 6.8099,-11.79177 -3.39491,0 0,-6.40816 z"
+   id="path4620-8"
+   style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.60000038;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" /><path
+   d="m 143.42609,299.265 0,11.80155 -3.41499,0 6.8099,11.79177 6.8099,-11.79177 -3.39491,0 0,-11.80155 z"
+   id="path4620-80"
+   style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.60000038;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" /><path
+   d="m 143.42609,405.311 0,11.80155 -3.41499,0 6.8099,11.79177 6.8099,-11.79177 -3.39491,0 0,-11.80155 z"
+   id="path4620-80-0"
+   style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.60000038;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" /><path
+   d="m 143.42609,478.32 0,9.39378 -3.41499,0 6.8099,11.79177 6.8099,-11.79177 -3.39491,0 0,-9.39378 z"
+   id="path4620-80-9"
+   style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.60000038;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" /></svg>

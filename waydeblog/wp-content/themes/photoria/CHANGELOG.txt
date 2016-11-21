@@ -1,0 +1,30 @@
+Photoria Theme
+http://www.wpzoom.com/themes/photoria
+ 
+CHANGELOG
+---------
+V 1.1.3 (13 December, 2011)
+	- An update for WP 3.3
+	- File edited: header.php
+
+V 1.1.2 (6th August, 2011)
+	- An important security fix: /scripts/timthumb.php has been updated to 2.0
+
+v 1.1.1
+	- minor changes
+
+v 1.1
+
+	- new file: custom.css - add in it your custom CSS code.
+	- minor fixes to support child themes
+	- modified files:
+		functions/wpzoom-core.php
+		functions/wpzoom-functions.php
+		wpzoom_admin/admin_functions.php
+		wpzoom_admin/options.css
+		header.php
+		style.css
+		footer.php
+		
+V 1.0  
+	- initial release
